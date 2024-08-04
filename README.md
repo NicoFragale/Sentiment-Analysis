@@ -49,9 +49,10 @@ customer feedback management.
 4. Use GUI as you prefer.
 
 ## Resources
-1. glove.42B.300d.txt is embedding used to train the model; [link to install]()
-2. rotten_tomatoes_movie_reviews.csv used to train the model; [link to install]()
-3. IMDB Dataset.csv used to apply the model; [link to install]()
+1. glove.42B.300d.txt is embedding used to train the model; [link to install](https://www.kaggle.com/datasets/yutanakamura/glove42b300dtxt)
+2. rotten_tomatoes_movie_reviews.csv used to train the model; [link to install](https://www.kaggle.com/datasets/andrezaza/clapper-massive-rotten-tomatoes-movies-and-reviews/data)
+3. IMDB Dataset.csv used to apply the model; [link to install](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+)
 
 
 ENJOY!
